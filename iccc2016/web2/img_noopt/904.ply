@@ -1,0 +1,26 @@
+ply
+format ascii 1.0
+element vertex 6
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+element face 8
+property list uchar int vertex_indices
+end_header
+7.59986686706542969 8 8 80 74 192
+8 7.35816335678100586 8 71 185 135
+8 8 7.66248798370361328 87 129 230
+8 8 8.58429145812988281 76 224 224
+8 8.58429145812988281 8 76 224 224
+8.58429145812988281 8 8 76 224 224
+3 2 1 0
+3 1 3 0
+3 2 0 4
+3 0 3 4
+3 1 2 5
+3 1 5 3
+3 5 2 4
+3 5 4 3
